@@ -1,4 +1,5 @@
 GİRİŞ
+
 Bu proje, X platformundan (Twitter) "Suriye" kelimesi içeren tweet’lerden yararlanarak, son zamanlarda gündemdeki olaylara insanların tepkilerini analiz etmeyi amaçlamaktadır. Proje, Suriye ile ilgili yapılan paylaşımların duygu analizini yaparak, toplumun bu konuda genel olarak olumlu ya da olumsuz bir bakış açısına sahip olup olmadığını ortaya koymayı hedeflemektedir. Veri bilimi perspektifinden ele alınan bu analiz, tamamen teknik bir çalışmadır ve herhangi bir siyasi tartışma amacı gütmemektedir.
 
 Veriseti Hakkında
